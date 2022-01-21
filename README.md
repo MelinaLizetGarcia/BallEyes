@@ -24,5 +24,5 @@ Ya dentro de la carpeta, compilar el archivo ts con el comando tsc:
 tsc
 ```
 
-Con eso generará el archivo Javascript necesario para su funcionamiento y el resultado seria este:
+Con eso generará la carpte dist archivo Javascript necesario para su funcionamiento y al abrir el archivo index, el resultado seria este:
 ![Resultado](/img/BallEyes.PNG)
