@@ -1,4 +1,7 @@
-
+# Sobre mi
+  Alumna de Computación
+Aprendiendo algunos tipos de lenguaje de programación  y algunas herramientas que me pueden ayudar a su desarrollo de estas aplicaciones:
+ Java, JS, CSS, HTML, TS y GIT
 # Proyecto BallEyes
 
 Ejemplo de un proyecto, se describe a continuación la foma de ejecución
